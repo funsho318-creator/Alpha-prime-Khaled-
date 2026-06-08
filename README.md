@@ -4,25 +4,119 @@ Prime Khaled Bot is a powerful Multi-Device WhatsApp Bot built with Node.js and 
 
 ## ✨ Features
 
-- 🤖 AI Chat Assistant
-- 🧠 Smart Replies & Conversations
-- 🛡️ Anti-Link Protection
-- 🚫 Anti-Spam System
-- 🔒 Auto Moderation
-- 👋 Welcome & Goodbye Messages
-- 🎨 Custom Welcome Cards
-- 👑 Admin Commands
-- 📢 Group Management Tools
-- 🎮 Dice, Trivia & Fun Games
-- 🖼️ Sticker Maker
-- 📥 Media Downloader
-- 📊 XP & Rank System
-- 👤 User Profiles
-- 🔍 Search Tools
-- 🌐 Translation Commands
-- 🧮 Calculator
-- 📱 Multi-Device Support
-- ⚙️ Customizable Settings
+### 🤖 AI & Utilities
+- AI Chat Assistant
+- Smart Replies & Conversations
+- AI Image Prompt Generator
+- Translation Commands
+- Calculator
+- QR Code Generator
+- Search Tools
+- Weather Lookup
+- Dictionary & Definitions
+
+### 🛡️ Group Protection
+- Anti-Link Protection
+- Anti-Spam System
+- Anti-Badword Filter
+- Auto Moderation
+- Anti-Flood System
+- Anti-Delete Messages
+- Group Security Tools
+
+### 👑 Admin Commands
+- Promote Members
+- Demote Members
+- Kick Members
+- Mute/Unmute Group
+- Tag All Members
+- Group Settings Control
+- Warn System
+- Ban/Unban Users
+
+### 👋 Welcome System
+- Welcome Messages
+- Goodbye Messages
+- Auto Greetings
+- Custom Welcome Cards
+- Auto Group Rules
+
+### 🎮 Fun & Games
+- Dice Roll
+- Trivia Quiz
+- Truth or Dare
+- Guess The Number
+- Riddle Games
+- Coin Flip
+- Rock Paper Scissors
+- Slot Machine
+- XP & Level Rewards
+
+### 🎌 Anime Features
+- Anime Search
+- Anime Character Info
+- Anime Quotes
+- Anime Wallpapers
+- Anime Reactions
+- Manga Search
+- Anime Recommendations
+
+### 🎵 Music Features
+- Song Lyrics Search
+- Music Search
+- Audio Downloader
+- Artist Information
+- Album Information
+- Trending Songs
+- Playlist Tools
+
+### 🖼️ Media Tools
+- Sticker Maker
+- Image to Sticker
+- Video to Sticker
+- Meme Generator
+- Remove Background
+- Image Enhancement
+- GIF Creation
+
+### 😂 Fun Commands
+- Fake Hack Prank Simulator
+- Fake Virus Scan Prank
+- Fake Password Cracker Prank
+- Fake Matrix Terminal
+- Roast Commands
+- Pickup Lines
+- Random Facts
+- Joke Generator
+
+> Note: All "hack" commands are harmless entertainment simulations and do not perform real hacking or unauthorized access.
+
+### 📊 User System
+- XP System
+- Rank System
+- Leaderboard
+- User Profiles
+- Daily Rewards
+- Economy System
+- Activity Tracking
+
+### 🌐 Downloaders
+- YouTube Downloader
+- TikTok Downloader
+- Instagram Downloader
+- Facebook Video Downloader
+- Audio Downloader
+
+### ⚙️ Extra Features
+- Auto Status View
+- Auto React
+- Custom Prefix
+- Multi-Device Support
+- Owner Commands
+- Broadcast Messages
+- Backup System
+- Plugin System
+- Custom Commands
 
 ## 📦 Termux Installation
 
