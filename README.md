@@ -1,122 +1,91 @@
 # ⚡ PRIME KHALED BOT ⚡
 
 Prime Khaled Bot is a powerful Multi-Device WhatsApp Bot built with Node.js and Baileys, designed for automation, moderation, entertainment, AI assistance, and advanced group management. It provides a fast, secure, reliable, and customizable experience for WhatsApp users and communities.
+## ✨ FEATURES
 
-## ✨ Features
+### 🤖 AI & Chat System
+- AI Chat Assistant (Smart Conversations)
+- Auto Reply Chatbot System
+- Group Chatbot Support
+- Context-Based Responses
 
-### 🤖 AI & Utilities
-- AI Chat Assistant
-- Smart Replies & Conversations
-- AI Image Prompt Generator
-- Translation Commands
-- Calculator
-- QR Code Generator
-- Search Tools
-- Weather Lookup
-- Dictionary & Definitions
+### 👑 Owner Control Panel
+- Owner-Only Commands
+- Broadcast System
+- Block / Unblock Users
+- Bot Settings Control
+- Plugin Management System
+- Restart & Maintenance Commands
 
-### 🛡️ Group Protection
+### 👥 Group Management System
+- Full Admin Control Commands
+- Promote / Demote Users
+- Kick / Ban Users
+- Mute / Unmute Group
+- Tag All Members
+- Group Settings Control
+- Auto Moderation System
 - Anti-Link Protection
 - Anti-Spam System
 - Anti-Badword Filter
-- Auto Moderation
-- Anti-Flood System
-- Anti-Delete Messages
-- Group Security Tools
+- Welcome & Goodbye System
 
-### 👑 Admin Commands
-- Promote Members
-- Demote Members
-- Kick Members
-- Mute/Unmute Group
-- Tag All Members
-- Group Settings Control
-- Warn System
-- Ban/Unban Users
-
-### 👋 Welcome System
-- Welcome Messages
-- Goodbye Messages
-- Auto Greetings
-- Custom Welcome Cards
-- Auto Group Rules
-
-### 🎮 Fun & Games
-- Dice Roll
-- Trivia Quiz
+### 🎮 Fun & Entertainment
+- Dice Game System
+- Trivia & Quiz Games
 - Truth or Dare
-- Guess The Number
-- Riddle Games
-- Coin Flip
-- Rock Paper Scissors
-- Slot Machine
-- XP & Level Rewards
+- Riddle & Guessing Games
+- Random Fun Commands
 
-### 🎌 Anime Features
-- Anime Search
-- Anime Character Info
+### 🎌 Anime & Media Features
+- Anime Search System
 - Anime Quotes
 - Anime Wallpapers
-- Anime Reactions
-- Manga Search
+- Manga Search Tool
 - Anime Recommendations
 
-### 🎵 Music Features
-- Song Lyrics Search
-- Music Search
-- Audio Downloader
-- Artist Information
-- Album Information
-- Trending Songs
-- Playlist Tools
+### 🎵 Music & Lyrics System
+- Song Lyrics Finder
+- Music Search Engine
+- Artist & Album Information
+- Trending Songs Lookup
+
+### 😂 Prank & Fun Simulations
+- Fake Hacker Prank Interface
+- Fake Virus Scan Simulator
+- Fake Matrix Terminal
+- Fake Device “Hack” Simulation
+- Fake Phone Tracker Prank (Simulation Only)
+- Fake System Breach Alerts
+
+> ⚠️ All prank features are for entertainment purposes only and do not perform real hacking, tracking, or device access.
+
+### ⚙️ Automation Features
+- Auto Status View System
+- Auto React to Messages
+- Auto Read Messages
+- Auto Typing & Recording Indicators
+- Smart Activity Tracking
 
 ### 🖼️ Media Tools
-- Sticker Maker
-- Image to Sticker
-- Video to Sticker
+- Sticker Maker (Image / Video to Sticker)
 - Meme Generator
-- Remove Background
-- Image Enhancement
-- GIF Creation
+- Media Downloader System
+- Image Utilities Tools
 
-### 😂 Fun Commands
-- Fake Hack Prank Simulator
-- Fake Virus Scan Prank
-- Fake Password Cracker Prank
-- Fake Matrix Terminal
-- Roast Commands
-- Pickup Lines
-- Random Facts
-- Joke Generator
+### 🌐 Utility Tools
+- Search Engine Commands
+- Calculator System
+- Translation Tools
+- QR Code Generator
+- Basic Information Tools
 
-> Note: All "hack" commands are harmless entertainment simulations and do not perform real hacking or unauthorized access.
-
-### 📊 User System
-- XP System
-- Rank System
-- Leaderboard
-- User Profiles
-- Daily Rewards
-- Economy System
-- Activity Tracking
-
-### 🌐 Downloaders
-- YouTube Downloader
-- TikTok Downloader
-- Instagram Downloader
-- Facebook Video Downloader
-- Audio Downloader
-
-### ⚙️ Extra Features
-- Auto Status View
-- Auto React
-- Custom Prefix
-- Multi-Device Support
-- Owner Commands
-- Broadcast Messages
-- Backup System
-- Plugin System
-- Custom Commands
+### 🚀 Performance & System
+- Multi-Device WhatsApp Support
+- Fast & Lightweight Core
+- Session Authentication System
+- Stable Connection Handling
+- Easy Deployment Support
 
 ## 📦 Termux Installation
 
