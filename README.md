@@ -124,6 +124,57 @@ npm install
 ```bash
 node index.js
 ```
+🐧 LINUX / VPS SETUP
+Bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install git nodejs npm ffmpeg imagemagick -y
+
+git clone https://github.com/your-username/prime-khaled-bot.git
+cd prime-khaled-bot
+
+npm install
+node index.js
+🔥 PM2 (Recommended)
+Bash
+npm install pm2 -g
+pm2 start index.js --name prime-bot
+pm2 save
+pm2 logs
+🐧 ARCH LINUX SETUP
+Bash
+sudo pacman -Syu
+sudo pacman -S git nodejs npm ffmpeg imagemagick
+
+git clone https://github.com/your-username/prime-khaled-bot.git
+cd prime-khaled-bot
+
+npm install
+node index.js
+🔥 PM2 ON ARCH
+Bash
+npm install pm2 -g
+pm2 start index.js --name prime-bot
+pm2 save
+pm2 logs
+☁️ CLOUD DEPLOYMENT
+🔵 VPS / SERVER (BEST)
+Bash
+node index.js
+⚡ RENDER / RAILWAY
+Connect GitHub repo
+Add environment variables
+Start command:
+Bash
+node index.js
+🔥 PM2 GLOBAL DEPLOY
+Bash
+npm install pm2 -g
+pm2 start index.js --name prime-bot
+pm2 save
+pm2 logs
+🔐 LOGIN SYSTEM
+QR Code login supported
+Pairing code login supported (recommended)
 
 ## 🔐 Pairing Code Setup
 
